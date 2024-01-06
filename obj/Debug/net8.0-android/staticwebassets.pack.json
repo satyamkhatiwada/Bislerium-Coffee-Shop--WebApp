@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\SATYAM\\ISLINGTON\\Year 3\\SEMESTER 1\\App dev\\Cw1\\Bislerium\\Bislerium\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Bislerium.styles.css",
+      "PackagePath": "staticwebassets\\Bislerium.styles.css"
+    },
+    {
+      "Id": "H:\\SATYAM\\ISLINGTON\\Year 3\\SEMESTER 1\\App dev\\Cw1\\Bislerium\\Bislerium\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "H:\\SATYAM\\ISLINGTON\\Year 3\\SEMESTER 1\\App dev\\Cw1\\Bislerium\\Bislerium\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\SATYAM\\ISLINGTON\\Year 3\\SEMESTER 1\\App dev\\Cw1\\Bislerium\\Bislerium\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\SATYAM\\ISLINGTON\\Year 3\\SEMESTER 1\\App dev\\Cw1\\Bislerium\\Bislerium\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "H:\\SATYAM\\ISLINGTON\\Year 3\\SEMESTER 1\\App dev\\Cw1\\Bislerium\\Bislerium\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Bislerium.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.Bislerium.props",
+      "PackagePath": "build\\Bislerium.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Bislerium.props",
+      "PackagePath": "buildMultiTargeting\\Bislerium.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.Bislerium.props",
+      "PackagePath": "buildTransitive\\Bislerium.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

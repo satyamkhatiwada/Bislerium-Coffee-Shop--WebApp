@@ -1,0 +1,201 @@
+/* /Components/Layout/MainLayout.razor.rz.scp.css */
+.page[b-jct55f6fw4] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-jct55f6fw4] {
+    flex: 1;
+}
+
+.sidebar[b-jct55f6fw4] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-jct55f6fw4] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-jct55f6fw4]  a, .top-row[b-jct55f6fw4]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+        .top-row[b-jct55f6fw4]  a:hover, .top-row[b-jct55f6fw4]  .btn-link:hover {
+            text-decoration: underline;
+        }
+
+        .top-row[b-jct55f6fw4]  a:first-child {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-jct55f6fw4] {
+        display: none;
+    }
+
+    .top-row.auth[b-jct55f6fw4] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-jct55f6fw4]  a, .top-row[b-jct55f6fw4]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-jct55f6fw4] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-jct55f6fw4] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-jct55f6fw4] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-jct55f6fw4], article[b-jct55f6fw4] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Components/Layout/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-1ty0gw9xzy] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-1ty0gw9xzy] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-1ty0gw9xzy] {
+    font-size: 1.1rem;
+}
+
+.oi[b-1ty0gw9xzy] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-1ty0gw9xzy] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-1ty0gw9xzy] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-1ty0gw9xzy] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-1ty0gw9xzy]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+        .nav-item[b-1ty0gw9xzy]  a.active {
+            background-color: rgba(255,255,255,0.25);
+            color: white;
+        }
+
+        .nav-item[b-1ty0gw9xzy]  a:hover {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+        }
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-1ty0gw9xzy] {
+        display: none;
+    }
+
+    .collapse[b-1ty0gw9xzy] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
+/* /Components/Pages/ChangePassword.razor.rz.scp.css */
+
+.form-body[b-4fyqgx5yfb] {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-container[b-4fyqgx5yfb] {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+    .form-container .form-floating:focus-within[b-4fyqgx5yfb] {
+        z-index: 2;
+    }
+
+.form-login .current-password[b-4fyqgx5yfb] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-login .new-password[b-4fyqgx5yfb] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+/* /Components/Pages/Login.razor.rz.scp.css */
+
+.form-body[b-248k5g40yy] {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-container[b-248k5g40yy] {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+    .form-container .form-floating:focus-within[b-248k5g40yy] {
+        z-index: 2;
+    }
+
+.form-login .current-password[b-248k5g40yy] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-login .new-password[b-248k5g40yy] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
