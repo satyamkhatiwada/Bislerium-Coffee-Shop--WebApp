@@ -1,0 +1,30 @@
+
+.form-body[b-248k5g40yy] {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-container[b-248k5g40yy] {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+    .form-container .form-floating:focus-within[b-248k5g40yy] {
+        z-index: 2;
+    }
+
+.form-login .current-password[b-248k5g40yy] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-login .new-password[b-248k5g40yy] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}

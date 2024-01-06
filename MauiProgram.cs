@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using Bislerium.Data;
 
 namespace Bislerium
 {
@@ -20,7 +21,7 @@ namespace Bislerium
     		builder.Services.AddBlazorWebViewDeveloperTools();
     		builder.Logging.AddDebug();
 #endif
-
+            builder.Services.AddSingleton<OrderService>();
             return builder.Build();
         }
     }

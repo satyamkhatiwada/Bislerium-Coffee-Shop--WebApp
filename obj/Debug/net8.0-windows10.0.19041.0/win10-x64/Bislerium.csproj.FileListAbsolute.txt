@@ -182,6 +182,7 @@ H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\
 H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bislerium.AssemblyInfoInputs.cache
 H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bislerium.AssemblyInfo.cs
 H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bislerium.csproj.CoreCompileInputs.cache
+H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bislerium.sourcelink.json
 H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bislerium.csproj.CopyComplete
 H:\SATYAM\ISLINGTON\Year 3\SEMESTER 1\App dev\Cw1\Bislerium\Bislerium\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bislerium.dll
